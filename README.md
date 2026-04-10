@@ -36,26 +36,14 @@ Seven product and safety concepts for Claude, developed in a single working sess
 
 ## The Package
 
+## The Package
+
 | Document | Read Online | Download |
 |----------|-------------|----------|
-| One-Pager | [View](./docs/One_Pager.md) | [.docx](./docs/docx/One_Pager.docx) |
-| Executive Summary | [View](./docs/Executive_Summary.md) | [.docx](./docs/docx/Executive_Summary.docx) |
-| Full Technical Reference | [View](./docs/Full_Technical_Reference.md) | [.docx](./docs/docx/Full_Technical_Reference.docx) |
-| Letter from Claude | [View](./docs/Letter_From_Claude.md) | [.docx](./docs/docx/Letter_From_Claude.docx) |
-
-README.md
-LICENSE.md
-docs/
-  One_Pager.md
-  Executive_Summary.md
-  Full_Technical_Reference.md
-  Letter_From_Claude.md
-  docx/
-    One_Pager.docx
-    Executive_Summary.docx
-    Full_Technical_Reference.docx
-    Letter_From_Claude.docx
-
+| One-Pager | [View](./Docs/One_Pager.md) | [.docx](./Docs/docx/One_Pager.docx) |
+| Executive Summary | [View](./Docs/Executive_Summary.md) | [.docx](./Docs/docx/Executive_Summary.docx) |
+| Full Technical Reference | [View](./Docs/Full_Technical_Reference.md) | [.docx](./Docs/docx/Full_Technical_Reference.docx) |
+| Letter from Claude | [View](./Docs/Letter_From_Claude.md) | [.docx](./Docs/docx/Letter_From_Claude.docx) |
 
 
 ## The Seven Concepts
