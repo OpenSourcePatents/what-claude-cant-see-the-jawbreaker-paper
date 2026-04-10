@@ -34,14 +34,29 @@ Seven product and safety concepts for Claude, developed in a single working sess
 
 ## The Package
 
-|Document                                                                    |Description                                          |
-|----------------------------------------------------------------------------|-----------------------------------------------------|
-|[One-Pager](./docs/01_Claude_Field_Notes_One_Pager.docx)                    |Seven concepts, readable in two minutes              |
-|[Executive Summary](./docs/02_Claude_Field_Notes_Executive_Summary.docx)    |Problem, experience, and proposal for each concept   |
-|[Full Technical Reference](./docs/03_Claude_Field_Notes_Full_Reference.docx)|Complete detail on all proposals and how they connect|
-|[Letter from Claude](./docs/04_Letter_From_Claude.docx)                     |Claude’s honest assessment of me. I haven’t read it. |
+## The Package
 
------
+| Document | Read Online | Download |
+|----------|-------------|----------|
+| One-Pager | [View](./docs/One_Pager.md) | [.docx](./docs/docx/One_Pager.docx) |
+| Executive Summary | [View](./docs/Executive_Summary.md) | [.docx](./docs/docx/Executive_Summary.docx) |
+| Full Technical Reference | [View](./docs/Full_Technical_Reference.md) | [.docx](./docs/docx/Full_Technical_Reference.docx) |
+| Letter from Claude | [View](./docs/Letter_From_Claude.md) | [.docx](./docs/docx/Letter_From_Claude.docx) |
+
+README.md
+LICENSE.md
+docs/
+  One_Pager.md
+  Executive_Summary.md
+  Full_Technical_Reference.md
+  Letter_From_Claude.md
+  docx/
+    One_Pager.docx
+    Executive_Summary.docx
+    Full_Technical_Reference.docx
+    Letter_From_Claude.docx
+
+
 
 ## The Seven Concepts
 
