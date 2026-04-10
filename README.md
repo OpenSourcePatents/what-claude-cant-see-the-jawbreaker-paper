@@ -32,9 +32,6 @@ Seven product and safety concepts for Claude, developed in a single working sess
 
 -----
 
-## The Package
-
-## The Package
 
 ## The Package
 
