@@ -61,8 +61,8 @@ These ideas didn’t come from a whiteboard session at a tech company. They came
 
 The spelling is rough. The ideas aren’t.
 
-**[Read the full conversation thread →]([LINK_TO_CHAT](https://claude.ai/share/8aca0d27-8c33-4808-ae55-066ac3c7a13c
-))**
+**[Read the full conversation thread →](https://claude.ai/share/8aca0d27-8c33-4808-ae55-066ac3c7a13c
+)**
 
 Fair warning: it’s long, it’s raw, and it’s real. But if you want to understand how a non-technical user and Claude actually work together, this is the most honest artifact that exists.
 
