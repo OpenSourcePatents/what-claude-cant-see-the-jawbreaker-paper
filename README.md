@@ -32,15 +32,15 @@ Seven product and safety concepts for Claude, developed in a single working sess
 
 -----
 
-
 ## The Package
 
 | Document | Read Online | Download |
 |----------|-------------|----------|
-| One-Pager | [View](./Docs/One_Pager.md) | [.docx](./Docs/docx/One_Pager.docx) |
-| Executive Summary | [View](./Docs/Executive_Summary.md) | [.docx](./Docs/docx/Executive_Summary.docx) |
-| Full Technical Reference | [View](./Docs/Full_Technical_Reference.md) | [.docx](./Docs/docx/Full_Technical_Reference.docx) |
-| Letter from Claude | [View](./Docs/Letter_From_Claude.md) | [.docx](./Docs/docx/Letter_From_Claude.docx) |
+| One-Pager | [View](./Docs/One%20Pager.md) | [.docx](./Docs/Docx/01_Claude_Field_Notes_One_Pager.docx) |
+| Executive Summary | [View](./Docs/Executive%20Summary.md) | [.docx](./Docs/Docx/02_Claude_Field_Notes_Executive_Summary.docx) |
+| Full Technical Reference | [View](./Docs/Full%20Technical%20Reference.md) | [.docx](./Docs/Docx/03_Claude_Field_Notes_Full_Reference.docx) |
+| Letter from Claude | [View](./Docs/A%20Letter%20From%20Claude.md) | [.docx](./Docs/Docx/04_Letter_From_Claude.docx) |
+
 
 
 ## The Seven Concepts
